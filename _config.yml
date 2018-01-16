@@ -59,3 +59,10 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+
+plugins:
+  - jekyll-maps
+
+maps:
+  google:
+    api_key: AIzaSyDkNgm_smN3_BYbZHgIm2mSEin1VwrHwJk
