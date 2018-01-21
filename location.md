@@ -11,6 +11,22 @@ location:
 - title: Winterbourne Medieval Barn
   latitude: 51.5260867
   longitude: -2.5189702
+- title: Royal British Legion
+  latitude: 51.5309542
+  longitude: -2.4753621
 ---
+
+<div class="row">
+    <div class="6u 12u$(small)">
+    	<h3>Ceremony</h3>
+    	<p>Zion United Church<br>Woodend Road<br>Frampton Cotterell<br>Bristol<br>BS36 2HY</p>
+    </div>
+    <div class="6u 12u$(small)">
+    	<h3>Reception</h3>
+    	<p>Winterbourne Medieval Barn<br>Church Lane<br>Winterbourne<br>Bristol<br>BS36 1SE</p>
+    </div>
+</div>
+
+There is limited parking available at Zion Church, but please also use the car park at the nearby Royal British Legion (see the map below).
 
 {% google_map width="100%" %}
