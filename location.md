@@ -27,6 +27,15 @@ location:
     </div>
 </div>
 
-There is limited parking available at Zion Church, but please also use the car park at the nearby Royal British Legion (see the map below).
+## How to get here
 
 {% google_map width="100%" %}
+
+* Driving
+There is limited parking available at Zion Church, so please use the car park at the nearby Royal British Legion (see the map above).
+
+* Train (incl. getting from Parkway/Abbey Wood - give taxi numbers)
+
+* Short drive from Zion to reception.
+
+For suggestions of nearby accommodation, see our [accommodation page]({{- site.url -}}/accommodation.html).
