@@ -14,6 +14,12 @@ location:
 - title: Royal British Legion
   latitude: 51.5309542
   longitude: -2.4753621
+- title: Bristol Parkway station
+  latitude: 51.5142176
+  longitude: -2.5454407
+- title: Filton Abbey Wood station
+  latitude: 51.5033569
+  longitude: -2.5660303
 ---
 
 <div class="row">
@@ -31,10 +37,15 @@ location:
 
 {% google_map width="100%" %}
 
-* Driving
+### Driving
+
 There is limited parking available at Zion Church, so please use the car park at the nearby Royal British Legion (see the map above).
 
-* Train (incl. getting from Parkway/Abbey Wood - give taxi numbers)
+### Train
+
+The nearest railway stations to Zion Church are Bristol Parkway or Filton Abbey Wood.
+
+* Getting from Parkway/Abbey Wood - give taxi numbers
 
 * Short drive from Zion to reception.
 
