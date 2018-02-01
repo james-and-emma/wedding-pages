@@ -6,7 +6,7 @@ order: 4
 
 The ceremony will be followed by a wedding reception at [Winterbourne Medieval Barn]({{- site.url -}}/location.html), which is a short drive from Zion Church. See our [location page]({{- site.url -}}/location.html) for more details.
 
-We will have a 3 course meal, followed by a ceilidh, and the reception will finish by 10pm. Please wear suitable shoes.
+We will have a 3 course meal, followed by a ceilidh, and the reception will finish by 10pm. Please be aware that the barn is a medieval building with uneven floors and no heating, so wear suitable footwear and clothing. There is parking on site so please don't park in the lane.
 
 ## Menu
 __Starter__  
