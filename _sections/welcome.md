@@ -1,5 +1,8 @@
 ---
 title: Welcome
+cover-photo: img/branch_fade.jpg
+cover-photo-alt: Branch with leaves
+lightdark: light
 icon: fa-arrow-right
 auto-header: Welcome to our wedding site!
 order: 2

@@ -1,5 +1,8 @@
 ---
 title: Ceremony
+cover-photo: img/branch_fade.jpg
+cover-photo-alt: Branch with leaves
+lightdark: light
 subtitle: Saturday 30th June 2018
 icon: fa-arrow-right
 order: 3

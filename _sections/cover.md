@@ -2,6 +2,7 @@
 title: Top
 cover-photo: img/banner.jpg
 cover-photo-alt: Our engagement photo
+lightdark: dark
 auto-header: none
 icon: fa-arrow-up
 order: 1

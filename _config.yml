@@ -35,7 +35,7 @@ subtitle: Saturday 30th June 2018
 description: Welcome to the website for James and Emma's wedding on Saturday 30th June 2018.
 author: James Harrison and Emma Chambers
 email: 
-avatar: assets/images/avatar.jpg
+avatar: img/avatar-large.jpg
 
 # You'll want to customize baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
