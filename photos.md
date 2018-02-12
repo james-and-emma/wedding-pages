@@ -5,4 +5,4 @@ icon: fa-camera
 order: 6
 ---
 
-{% include instawidget.html %}
+<!--  include instawidget.html  -->
