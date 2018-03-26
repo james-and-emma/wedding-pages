@@ -2,7 +2,7 @@
 title: Contact us
 layout: "page"
 icon: fa-envelope
-order: 7
+order: 8
 ---
 
 If there's anything you'd like to ask us, you can contact us using these email addresses:

@@ -27,4 +27,4 @@ Raspberry Crème Brûlée with a tuile of raspberry mojito sorbet (v)
 
 We will not have a separate menu for children, but child portions are available. Please use our [RSVP form]({{- site.url -}}/rsvp.html) to give us your menu choices.
 
-See our [accommodation page]({{- site.url -}}/accommodation.html) for suggestions of nearby places to stay.
+See our [accommodation page]({{- site.url -}}/accommodation.html) for suggestions of nearby places to stay. If you need a taxi for local transport, you can find the contact details for some local taxi companies on our [taxis page]({{- site.url -}}/taxis.html).

@@ -41,6 +41,8 @@ location:
 
 There is limited parking available at Zion Church, so please use the car park at the nearby Royal British Legion (see the map above).
 
+If you need a taxi, there are contact details for some local taxi companies on our [taxis page]({{- site.url -}}/taxis.html).
+
 ### Train
 
 The nearest railway stations to Zion Church are Bristol Parkway or Filton Abbey Wood.
